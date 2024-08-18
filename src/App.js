@@ -35,14 +35,15 @@ function App() {
                     <li class="dropdown">
                       <a href="javascript:void(0)" class="dropbtn">CONTACT</a>
                       <div class="dropdown-content">
-                        <a href="630-962-8854">CALL ME</a>
+                        <a href="">630-962-8854</a>
+                        <a href="">darlingmahee09@gmail.com</a>
                       </div>
                     </li>
                 </ul>
                 
             </nav>
           </div>
-          <div classe="links">
+           <div classe="links">
             <a href="https://www.instagram.com/mr.mahi_0009?utm_source=qr&igsh=MW05OGVwYWVwb2x2bA== "><img src="instagram.png" class="insta"></img></a>
             <a href="https://www.linkedin.com/in/patnam-mahendra-553462259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="linkedin.png" class="lin"></img></a>
             <a href="https://wa.me/qr/4ZKUQGUP7GPDC1 "><img src="whatsapp.png" class="what"></img></a>
@@ -56,7 +57,7 @@ function App() {
             <a href="https://drive.google.com/file/d/1XtirS1SF2c8XGGrv5EAOatTcI0erLFoZ/view?usp=sharing">DOWNLOAD CV</a>
         </div>
         <div class="images">
-            {/* <img src="blob-design-shape-with-transparent-background-png.webp" class="shape"></img> */}
+             {/* <img src="blob-design-shape-with-transparent-background-png.webp" class="shape"></img> */}
             <img src="Picsart_24-08-12_21-51-03-515.png" class="boy"></img>
 
         </div>

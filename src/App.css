@@ -169,4 +169,10 @@
 .images:hover .boy{
   left: 60%;
 };
+@media (max-width: 425px){
+  .hero{
+  }
 
+
+
+}
